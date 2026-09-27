@@ -414,6 +414,28 @@ Users can:
 
 ---
 
+## Dashboard Preview
+
+### Overview
+
+![Dashboard Overview](screenshots/Overview-1.png)
+
+![Dashboard Overview - Details](screenshots/Overview-2.png)
+
+### Behavioral Segmentation
+
+![Behavioral Segmentation](screenshots/Behavior-1.png)
+
+![Behavioral Segmentation - Details](screenshots/Behavior-2.png)
+
+### Risk Monitoring
+
+![Risk Monitoring](screenshots/Risk-Monitoring-1.png)
+
+![Risk Monitoring - Details](screenshots/Risk-Monitoring-2.png)
+
+---
+
 ## Technical Stack
 
 | Area                    | Technology       |
