@@ -659,7 +659,7 @@ The behavioral segments, risk indicators, anomaly scores, and analytical risk le
 
 **林月君 (Ei Thinzar Myo)**
 
-Computer Science (Big Data) Graduate
+Computer Science (Big Data) Graduate  
 Data Analytics · SQL · Python · Data Visualization · Machine Learning
 
 [GitHub](https://github.com/havenyj) · [LinkedIn](https://www.linkedin.com/in/eithinzarmyo/)
