@@ -466,7 +466,7 @@ digital-payments-behavioral-intelligence/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/havenyj/digital-payments-behavioral-intelligence.git
 cd digital-payments-behavioral-intelligence
 ```
 
@@ -640,4 +640,4 @@ The behavioral segments, risk indicators, anomaly scores, and analytical risk le
 Computer Science (Big Data) Graduate
 Data Analytics · SQL · Python · Data Visualization · Machine Learning
 
-[GitHub](your-github-profile-url) · [LinkedIn](your-linkedin-url)
+[GitHub](https://github.com/havenyj) · [LinkedIn](https://www.linkedin.com/in/eithinzarmyo/)
